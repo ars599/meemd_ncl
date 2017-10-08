@@ -1,3 +1,9 @@
+;========================================
+;Org: from https://github.com/leeneil
+;convert to ncl
+;owned by Arnold Sullivan
+;history 08 10 2017
+;========================================
 
 undef("eemd3")
 
