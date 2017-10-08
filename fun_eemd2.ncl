@@ -3,6 +3,8 @@
 ;convert to ncl
 ;owned by Arnold Sullivan
 ;history 08 10 2017
+;Oceans and Atmosphere CSIRO
+;web: arnold.sullivan@csiro.au
 ;========================================
 undef("eemd2")
 
