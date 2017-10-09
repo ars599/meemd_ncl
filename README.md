@@ -14,3 +14,20 @@ fun_plot2d.ncl       - simple 2D plot </br>
 get_eemd_2d_ncl.ncl  - 2D demo code </br>
 get_eemd_3d_ncl.ncl  - 3D demo code </br>
 
+Sin Signal (A)
+
+https://www.youtube.com/watch?v=8P9M_iszvjQ
+
+Cos Signal (B)
+
+https://www.youtube.com/watch?v=Cdvn0A4qCdc
+
+Signal A+B
+
+https://www.youtube.com/watch?v=oXibRyWgirU
+
+IMF 1st mode from MEEMD
+
+https://www.youtube.com/watch?v=fb3nZNylAVw
+
+IMF 2nd mode from MEEMD
