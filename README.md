@@ -14,6 +14,11 @@ fun_plot2d.ncl       - simple 2D plot </br>
 get_eemd_2d_ncl.ncl  - 2D demo code </br>
 get_eemd_3d_ncl.ncl  - 3D demo code </br>
 
+# function associated with eemd in ncl codes:
+fun_ifndq.ncl        - script to calculate the instantaneous frequency
+fun_extrema.ncl      - script to find the local extrema
+
+
 Sin Signal (A)
 
 https://www.youtube.com/watch?v=8P9M_iszvjQ
