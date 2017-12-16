@@ -20,6 +20,11 @@ fun_ifndq.ncl        - script to calculate the instantaneous frequencyi </br>
 fun_extrema.ncl      - script to find the local extrema </br>
 
 
+# function associated with eemd in ncl codes:
+fun_ifndq.ncl        - script to calculate the instantaneous frequency
+fun_extrema.ncl      - script to find the local extrema
+
+
 Sin Signal (A)
 
 https://www.youtube.com/watch?v=8P9M_iszvjQ
