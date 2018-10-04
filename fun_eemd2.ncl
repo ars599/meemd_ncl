@@ -9,7 +9,7 @@
 undef("eemd2")
 
 function eemd2(data[*][*]:numeric, goal[*]:integer, \
-                        ens[*]:integer, nos_wn[*]:float )
+                        ens[*]:integer, nos_wn[*]:float,optEEMD : logical )
 local i, modes, G, D
 begin
 
@@ -20,7 +20,7 @@ begin
   G = new((/sz(0), sz(1), goal/),typeof(data),data@_FillValue)
   G = 0
   dims   = 0
-  opt    = False
+  opt    = optEEMD
 
 do u=0,sz(0)-1
   row_modes = eemd(data(u,:),goal,ens,nos_wn,opt,dims) ;; [3] x [20]
